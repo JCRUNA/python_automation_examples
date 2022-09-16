@@ -1,0 +1,1 @@
+#### This repo shows how to automate tasks with simple python scripts 
